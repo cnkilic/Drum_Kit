@@ -1,2 +1,2 @@
 # Drum_Kit
-Drum Kit with JS
+Link for game https://cnkilic.github.io/Drum_Kit/
